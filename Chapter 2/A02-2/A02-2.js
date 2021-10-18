@@ -1,0 +1,1 @@
+document.write('<h1 style="color:blue;">This is my Chapter 2 Assignment.</h1>')
